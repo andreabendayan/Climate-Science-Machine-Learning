@@ -1,0 +1,2018 @@
+[
+  {
+    "Year": 2020,
+    "Departures": 7422,
+    "Domestic": 0,
+    "State": "ABW",
+    "International": 7422,
+    "FlagCarrier_Flights": 1925,
+    "Name": "Aruba"
+  },
+  {
+    "Year": 2020,
+    "Departures": 11822,
+    "Domestic": 8395,
+    "State": "AFG",
+    "International": 3427,
+    "FlagCarrier_Flights": 11496,
+    "Name": "Afghanistan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4978,
+    "Domestic": 2907,
+    "State": "AGO",
+    "International": 2071,
+    "FlagCarrier_Flights": 5891,
+    "Name": "Angola"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3742,
+    "Domestic": 8,
+    "State": "AIA",
+    "International": 3734,
+    "FlagCarrier_Flights": 2249,
+    "Name": "Anguilla"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6535,
+    "Domestic": 0,
+    "State": "ALB",
+    "International": 6535,
+    "FlagCarrier_Flights": 4085,
+    "Name": "Albania"
+  },
+  {
+    "Year": 2020,
+    "Departures": 30478,
+    "Domestic": 13010,
+    "State": "ANT",
+    "International": 17468,
+    "FlagCarrier_Flights": 10070,
+    "Name": "Netherland Antilles"
+  },
+  {
+    "Year": 2020,
+    "Departures": 137917,
+    "Domestic": 1,
+    "State": "ARE",
+    "International": 137916,
+    "FlagCarrier_Flights": 199858,
+    "Name": "United Arab Emirates"
+  },
+  {
+    "Year": 2020,
+    "Departures": 56050,
+    "Domestic": 42192,
+    "State": "ARG",
+    "International": 13858,
+    "FlagCarrier_Flights": 41913,
+    "Name": "Argentina"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6841,
+    "Domestic": 0,
+    "State": "ARM",
+    "International": 6841,
+    "FlagCarrier_Flights": 4203,
+    "Name": "Armenia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 62,
+    "Domestic": 0,
+    "State": "ASM",
+    "International": 62,
+    "FlagCarrier_Flights": 0,
+    "Name": "American Samoa"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6211,
+    "Domestic": 0,
+    "State": "ATG",
+    "International": 6211,
+    "FlagCarrier_Flights": 13008,
+    "Name": "Antigua and Barbuda"
+  },
+  {
+    "Year": 2020,
+    "Departures": 320121,
+    "Domestic": 285602,
+    "State": "AUS",
+    "International": 34519,
+    "FlagCarrier_Flights": 309655,
+    "Name": "Australia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 61290,
+    "Domestic": 3458,
+    "State": "AUT",
+    "International": 57832,
+    "FlagCarrier_Flights": 63472,
+    "Name": "Austria"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9675,
+    "Domestic": 119,
+    "State": "AZE",
+    "International": 9556,
+    "FlagCarrier_Flights": 12553,
+    "Name": "Azerbaijan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 963,
+    "Domestic": 0,
+    "State": "BDI",
+    "International": 963,
+    "FlagCarrier_Flights": 0,
+    "Name": "Burundi"
+  },
+  {
+    "Year": 2020,
+    "Departures": 56277,
+    "Domestic": 0,
+    "State": "BEL",
+    "International": 56277,
+    "FlagCarrier_Flights": 36611,
+    "Name": "Belgium"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2523,
+    "Domestic": 0,
+    "State": "BEN",
+    "International": 2523,
+    "FlagCarrier_Flights": 17876,
+    "Name": "Benin"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3204,
+    "Domestic": 556,
+    "State": "BFA",
+    "International": 2648,
+    "FlagCarrier_Flights": 3519,
+    "Name": "Burkina Faso"
+  },
+  {
+    "Year": 2020,
+    "Departures": 61600,
+    "Domestic": 45752,
+    "State": "BGD",
+    "International": 15848,
+    "FlagCarrier_Flights": 60725,
+    "Name": "Bangladesh"
+  },
+  {
+    "Year": 2020,
+    "Departures": 19880,
+    "Domestic": 1949,
+    "State": "BGR",
+    "International": 17931,
+    "FlagCarrier_Flights": 8088,
+    "Name": "Bulgaria"
+  },
+  {
+    "Year": 2020,
+    "Departures": 16925,
+    "Domestic": 0,
+    "State": "BHR",
+    "International": 16925,
+    "FlagCarrier_Flights": 23536,
+    "Name": "Bahrain"
+  },
+  {
+    "Year": 2020,
+    "Departures": 41927,
+    "Domestic": 30770,
+    "State": "BHS",
+    "International": 11157,
+    "FlagCarrier_Flights": 34856,
+    "Name": "Bahamas"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3515,
+    "Domestic": 19,
+    "State": "BIH",
+    "International": 3496,
+    "FlagCarrier_Flights": 3634,
+    "Name": "Bosnia and Herzegovina"
+  },
+  {
+    "Year": 2020,
+    "Departures": 10409,
+    "Domestic": 0,
+    "State": "BLR",
+    "International": 10409,
+    "FlagCarrier_Flights": 17644,
+    "Name": "Belarus"
+  },
+  {
+    "Year": 2020,
+    "Departures": 144941,
+    "Domestic": 142363,
+    "State": "BLZ",
+    "International": 2578,
+    "FlagCarrier_Flights": 144294,
+    "Name": "Belize"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1386,
+    "Domestic": 0,
+    "State": "BMU",
+    "International": 1386,
+    "FlagCarrier_Flights": 0,
+    "Name": "Bermuda"
+  },
+  {
+    "Year": 2020,
+    "Departures": 48682,
+    "Domestic": 45130,
+    "State": "BOL",
+    "International": 3552,
+    "FlagCarrier_Flights": 50505,
+    "Name": "Bolivia (Plurinational State of)"
+  },
+  {
+    "Year": 2020,
+    "Departures": 430912,
+    "Domestic": 405525,
+    "State": "BRA",
+    "International": 25387,
+    "FlagCarrier_Flights": 302157,
+    "Name": "Brazil"
+  },
+  {
+    "Year": 2020,
+    "Departures": 7729,
+    "Domestic": 0,
+    "State": "BRB",
+    "International": 7729,
+    "FlagCarrier_Flights": 0,
+    "Name": "Barbados"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2655,
+    "Domestic": 0,
+    "State": "BRN",
+    "International": 2655,
+    "FlagCarrier_Flights": 4467,
+    "Name": "Brunei Darussalam"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1150,
+    "Domestic": 0,
+    "State": "BTN",
+    "International": 1150,
+    "FlagCarrier_Flights": 3086,
+    "Name": "Bhutan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3359,
+    "Domestic": 1031,
+    "State": "BWA",
+    "International": 2328,
+    "FlagCarrier_Flights": 2745,
+    "Name": "Botswana"
+  },
+  {
+    "Year": 2020,
+    "Departures": 545,
+    "Domestic": 0,
+    "State": "CAF",
+    "International": 545,
+    "FlagCarrier_Flights": 0,
+    "Name": "Central African Republic"
+  },
+  {
+    "Year": 2020,
+    "Departures": 482663,
+    "Domestic": 389070,
+    "State": "CAN",
+    "International": 93593,
+    "FlagCarrier_Flights": 499365,
+    "Name": "Canada"
+  },
+  {
+    "Year": 2020,
+    "Departures": 110,
+    "Domestic": 0,
+    "State": "CCK",
+    "International": 110,
+    "FlagCarrier_Flights": 0,
+    "Name": "Cocos (Keeling) Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 84438,
+    "Domestic": 2265,
+    "State": "CHE",
+    "International": 82173,
+    "FlagCarrier_Flights": 62085,
+    "Name": "Switzerland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 63966,
+    "Domestic": 52335,
+    "State": "CHL",
+    "International": 11631,
+    "FlagCarrier_Flights": 251066,
+    "Name": "Chile"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3821569,
+    "Domestic": 3668383,
+    "State": "CHN",
+    "International": 153186,
+    "FlagCarrier_Flights": 3843646,
+    "Name": "China"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6050,
+    "Domestic": 390,
+    "State": "CIV",
+    "International": 5660,
+    "FlagCarrier_Flights": 2582,
+    "Name": "Cote d'Ivoire"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4184,
+    "Domestic": 1137,
+    "State": "CMR",
+    "International": 3047,
+    "FlagCarrier_Flights": 168,
+    "Name": "Cameroon"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4860,
+    "Domestic": 2314,
+    "State": "COD",
+    "International": 2546,
+    "FlagCarrier_Flights": 60394,
+    "Name": "Democratic Republic of the Congo"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3170,
+    "Domestic": 1635,
+    "State": "COG",
+    "International": 1535,
+    "FlagCarrier_Flights": 1592,
+    "Name": "Congo"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1874,
+    "Domestic": 1626,
+    "State": "COK",
+    "International": 248,
+    "FlagCarrier_Flights": 1626,
+    "Name": "Cook Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 147946,
+    "Domestic": 122802,
+    "State": "COL",
+    "International": 25144,
+    "FlagCarrier_Flights": 144195,
+    "Name": "Colombia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2795,
+    "Domestic": 1376,
+    "State": "COM",
+    "International": 1419,
+    "FlagCarrier_Flights": 2305,
+    "Name": "Comoros"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6181,
+    "Domestic": 3455,
+    "State": "CPV",
+    "International": 2726,
+    "FlagCarrier_Flights": 5444,
+    "Name": "Cabo Verde"
+  },
+  {
+    "Year": 2020,
+    "Departures": 42606,
+    "Domestic": 31895,
+    "State": "CRI",
+    "International": 10711,
+    "FlagCarrier_Flights": 29756,
+    "Name": "Costa Rica"
+  },
+  {
+    "Year": 2020,
+    "Departures": 14488,
+    "Domestic": 3262,
+    "State": "CUB",
+    "International": 11226,
+    "FlagCarrier_Flights": 3353,
+    "Name": "Cuba"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9950,
+    "Domestic": 6773,
+    "State": "CYM",
+    "International": 3177,
+    "FlagCarrier_Flights": 10630,
+    "Name": "Cayman Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 16535,
+    "Domestic": 0,
+    "State": "CYP",
+    "International": 16535,
+    "FlagCarrier_Flights": 1116,
+    "Name": "Cyprus"
+  },
+  {
+    "Year": 2020,
+    "Departures": 20593,
+    "Domestic": 101,
+    "State": "CZE",
+    "International": 20492,
+    "FlagCarrier_Flights": 10188,
+    "Name": "Czech Republic"
+  },
+  {
+    "Year": 2020,
+    "Departures": 364400,
+    "Domestic": 88111,
+    "State": "DEU",
+    "International": 276289,
+    "FlagCarrier_Flights": 318061,
+    "Name": "Germany"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1697,
+    "Domestic": 0,
+    "State": "DJI",
+    "International": 1697,
+    "FlagCarrier_Flights": 941,
+    "Name": "Djibouti"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3684,
+    "Domestic": 0,
+    "State": "DMA",
+    "International": 3684,
+    "FlagCarrier_Flights": 0,
+    "Name": "Dominica"
+  },
+  {
+    "Year": 2020,
+    "Departures": 62413,
+    "Domestic": 15300,
+    "State": "DNK",
+    "International": 47113,
+    "FlagCarrier_Flights": 77871,
+    "Name": "Denmark"
+  },
+  {
+    "Year": 2020,
+    "Departures": 27851,
+    "Domestic": 112,
+    "State": "DOM",
+    "International": 27739,
+    "FlagCarrier_Flights": 3046,
+    "Name": "Dominican Republic"
+  },
+  {
+    "Year": 2020,
+    "Departures": 25319,
+    "Domestic": 15908,
+    "State": "DZA",
+    "International": 9411,
+    "FlagCarrier_Flights": 27219,
+    "Name": "Algeria"
+  },
+  {
+    "Year": 2020,
+    "Departures": 21845,
+    "Domestic": 13024,
+    "State": "ECU",
+    "International": 8821,
+    "FlagCarrier_Flights": 14164,
+    "Name": "Ecuador"
+  },
+  {
+    "Year": 2020,
+    "Departures": 58123,
+    "Domestic": 11883,
+    "State": "EGY",
+    "International": 46240,
+    "FlagCarrier_Flights": 81633,
+    "Name": "Egypt"
+  },
+  {
+    "Year": 2020,
+    "Departures": 781,
+    "Domestic": 0,
+    "State": "ERI",
+    "International": 781,
+    "FlagCarrier_Flights": 549,
+    "Name": "Eritrea"
+  },
+  {
+    "Year": 2020,
+    "Departures": 822,
+    "Domestic": 0,
+    "State": "ESH",
+    "International": 822,
+    "FlagCarrier_Flights": 0,
+    "Name": "Western Sahara"
+  },
+  {
+    "Year": 2020,
+    "Departures": 406607,
+    "Domestic": 201904,
+    "State": "ESP",
+    "International": 204703,
+    "FlagCarrier_Flights": 296524,
+    "Name": "Spain"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6675,
+    "Domestic": 40,
+    "State": "EST",
+    "International": 6635,
+    "FlagCarrier_Flights": 0,
+    "Name": "Estonia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 46312,
+    "Domestic": 23123,
+    "State": "ETH",
+    "International": 23189,
+    "FlagCarrier_Flights": 77518,
+    "Name": "Ethiopia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 44567,
+    "Domestic": 18651,
+    "State": "FIN",
+    "International": 25916,
+    "FlagCarrier_Flights": 51061,
+    "Name": "Finland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 15088,
+    "Domestic": 7546,
+    "State": "FJI",
+    "International": 7542,
+    "FlagCarrier_Flights": 10357,
+    "Name": "Fiji"
+  },
+  {
+    "Year": 2020,
+    "Departures": 30,
+    "Domestic": 0,
+    "State": "FLK",
+    "International": 30,
+    "FlagCarrier_Flights": 0,
+    "Name": "Falkland Islands (Malvinas)"
+  },
+  {
+    "Year": 2020,
+    "Departures": 328000,
+    "Domestic": 138554,
+    "State": "FRA",
+    "International": 189446,
+    "FlagCarrier_Flights": 238567,
+    "Name": "France"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1101,
+    "Domestic": 0,
+    "State": "FRO",
+    "International": 1101,
+    "FlagCarrier_Flights": 1888,
+    "Name": "Faeroe Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 672,
+    "Domestic": 371,
+    "State": "FSM",
+    "International": 301,
+    "FlagCarrier_Flights": 0,
+    "Name": "Micronesia (Federated States of)"
+  },
+  {
+    "Year": 2020,
+    "Departures": 5639,
+    "Domestic": 3258,
+    "State": "GAB",
+    "International": 2381,
+    "FlagCarrier_Flights": 0,
+    "Name": "Gabon"
+  },
+  {
+    "Year": 2020,
+    "Departures": 404068,
+    "Domestic": 104104,
+    "State": "GBR",
+    "International": 299964,
+    "FlagCarrier_Flights": 481230,
+    "Name": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 7675,
+    "Domestic": 8,
+    "State": "GEO",
+    "International": 7667,
+    "FlagCarrier_Flights": 3354,
+    "Name": "Georgia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 16081,
+    "Domestic": 10554,
+    "State": "GHA",
+    "International": 5527,
+    "FlagCarrier_Flights": 13393,
+    "Name": "Ghana"
+  },
+  {
+    "Year": 2020,
+    "Departures": 801,
+    "Domestic": 0,
+    "State": "GIB",
+    "International": 801,
+    "FlagCarrier_Flights": 0,
+    "Name": "Gibraltar"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1631,
+    "Domestic": 0,
+    "State": "GIN",
+    "International": 1631,
+    "FlagCarrier_Flights": 272,
+    "Name": "Guinea"
+  },
+  {
+    "Year": 2020,
+    "Departures": 7222,
+    "Domestic": 0,
+    "State": "GLP",
+    "International": 7222,
+    "FlagCarrier_Flights": 0,
+    "Name": "Guadeloupe"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1305,
+    "Domestic": 0,
+    "State": "GMB",
+    "International": 1305,
+    "FlagCarrier_Flights": 0,
+    "Name": "Gambia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 602,
+    "Domestic": 0,
+    "State": "GNB",
+    "International": 602,
+    "FlagCarrier_Flights": 0,
+    "Name": "Guinea-Bissau"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3257,
+    "Domestic": 2218,
+    "State": "GNQ",
+    "International": 1039,
+    "FlagCarrier_Flights": 3894,
+    "Name": "Equatorial Guinea"
+  },
+  {
+    "Year": 2020,
+    "Departures": 115881,
+    "Domestic": 59606,
+    "State": "GRC",
+    "International": 56275,
+    "FlagCarrier_Flights": 82630,
+    "Name": "Greece"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2285,
+    "Domestic": 0,
+    "State": "GRD",
+    "International": 2285,
+    "FlagCarrier_Flights": 0,
+    "Name": "Grenada"
+  },
+  {
+    "Year": 2020,
+    "Departures": 13933,
+    "Domestic": 13375,
+    "State": "GRL",
+    "International": 558,
+    "FlagCarrier_Flights": 14135,
+    "Name": "Greenland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 10452,
+    "Domestic": 3760,
+    "State": "GTM",
+    "International": 6692,
+    "FlagCarrier_Flights": 5598,
+    "Name": "Guatemala"
+  },
+  {
+    "Year": 2020,
+    "Departures": 498,
+    "Domestic": 0,
+    "State": "GUF",
+    "International": 498,
+    "FlagCarrier_Flights": 0,
+    "Name": "French Guiana"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6559,
+    "Domestic": 12,
+    "State": "GUM",
+    "International": 6547,
+    "FlagCarrier_Flights": 0,
+    "Name": "Guam"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1519,
+    "Domestic": 0,
+    "State": "GUY",
+    "International": 1519,
+    "FlagCarrier_Flights": 0,
+    "Name": "Guyana"
+  },
+  {
+    "Year": 2020,
+    "Departures": 69890,
+    "Domestic": 0,
+    "State": "HKG",
+    "International": 69890,
+    "FlagCarrier_Flights": 82697,
+    "Name": "China, Hong Kong Special Administrative Region"
+  },
+  {
+    "Year": 2020,
+    "Departures": 19545,
+    "Domestic": 14912,
+    "State": "HND",
+    "International": 4633,
+    "FlagCarrier_Flights": 15433,
+    "Name": "Honduras"
+  },
+  {
+    "Year": 2020,
+    "Departures": 18337,
+    "Domestic": 5926,
+    "State": "HRV",
+    "International": 12411,
+    "FlagCarrier_Flights": 14553,
+    "Name": "Croatia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6077,
+    "Domestic": 1556,
+    "State": "HTI",
+    "International": 4521,
+    "FlagCarrier_Flights": 3227,
+    "Name": "Haiti"
+  },
+  {
+    "Year": 2020,
+    "Departures": 24530,
+    "Domestic": 0,
+    "State": "HUN",
+    "International": 24530,
+    "FlagCarrier_Flights": 163022,
+    "Name": "Hungary"
+  },
+  {
+    "Year": 2020,
+    "Departures": 763215,
+    "Domestic": 727696,
+    "State": "IDN",
+    "International": 35519,
+    "FlagCarrier_Flights": 755221,
+    "Name": "Indonesia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 776959,
+    "Domestic": 693545,
+    "State": "IND",
+    "International": 83414,
+    "FlagCarrier_Flights": 755136,
+    "Name": "India"
+  },
+  {
+    "Year": 2020,
+    "Departures": 49878,
+    "Domestic": 2791,
+    "State": "IRL",
+    "International": 47087,
+    "FlagCarrier_Flights": 409878,
+    "Name": "Ireland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 109246,
+    "Domestic": 95628,
+    "State": "IRN",
+    "International": 13618,
+    "FlagCarrier_Flights": 113087,
+    "Name": "Iran (Islamic Republic of)"
+  },
+  {
+    "Year": 2020,
+    "Departures": 17806,
+    "Domestic": 4380,
+    "State": "IRQ",
+    "International": 13426,
+    "FlagCarrier_Flights": 12030,
+    "Name": "Iraq"
+  },
+  {
+    "Year": 2020,
+    "Departures": 14044,
+    "Domestic": 5421,
+    "State": "ISL",
+    "International": 8623,
+    "FlagCarrier_Flights": 16239,
+    "Name": "Iceland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 25310,
+    "Domestic": 3507,
+    "State": "ISR",
+    "International": 21803,
+    "FlagCarrier_Flights": 14982,
+    "Name": "Israel"
+  },
+  {
+    "Year": 2020,
+    "Departures": 293465,
+    "Domestic": 137617,
+    "State": "ITA",
+    "International": 155848,
+    "FlagCarrier_Flights": 99672,
+    "Name": "Italy"
+  },
+  {
+    "Year": 2020,
+    "Departures": 20175,
+    "Domestic": 7849,
+    "State": "JAM",
+    "International": 12326,
+    "FlagCarrier_Flights": 523,
+    "Name": "Jamaica"
+  },
+  {
+    "Year": 2020,
+    "Departures": 13802,
+    "Domestic": 847,
+    "State": "JOR",
+    "International": 12955,
+    "FlagCarrier_Flights": 15954,
+    "Name": "Jordan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 822130,
+    "Domestic": 721481,
+    "State": "JPN",
+    "International": 100649,
+    "FlagCarrier_Flights": 778415,
+    "Name": "Japan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 47360,
+    "Domestic": 38665,
+    "State": "KAZ",
+    "International": 8695,
+    "FlagCarrier_Flights": 46715,
+    "Name": "Kazakhstan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 79233,
+    "Domestic": 47185,
+    "State": "KEN",
+    "International": 32048,
+    "FlagCarrier_Flights": 93884,
+    "Name": "Kenya"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4909,
+    "Domestic": 547,
+    "State": "KGZ",
+    "International": 4362,
+    "FlagCarrier_Flights": 41097,
+    "Name": "Kyrgyzstan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 15569,
+    "Domestic": 2635,
+    "State": "KHM",
+    "International": 12934,
+    "FlagCarrier_Flights": 10415,
+    "Name": "Cambodia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3895,
+    "Domestic": 3748,
+    "State": "KIR",
+    "International": 147,
+    "FlagCarrier_Flights": 3796,
+    "Name": "Kiribati"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3422,
+    "Domestic": 68,
+    "State": "KNA",
+    "International": 3354,
+    "FlagCarrier_Flights": 0,
+    "Name": "Saint Kitts and Nevis"
+  },
+  {
+    "Year": 2020,
+    "Departures": 281104,
+    "Domestic": 182953,
+    "State": "KOR",
+    "International": 98151,
+    "FlagCarrier_Flights": 333368,
+    "Name": "Republic of Korea"
+  },
+  {
+    "Year": 2020,
+    "Departures": 28207,
+    "Domestic": 0,
+    "State": "KWT",
+    "International": 28207,
+    "FlagCarrier_Flights": 29539,
+    "Name": "Kuwait"
+  },
+  {
+    "Year": 2020,
+    "Departures": 13016,
+    "Domestic": 9548,
+    "State": "LAO",
+    "International": 3468,
+    "FlagCarrier_Flights": 21493,
+    "Name": "Lao People's Democratic Republic"
+  },
+  {
+    "Year": 2020,
+    "Departures": 11360,
+    "Domestic": 0,
+    "State": "LBN",
+    "International": 11360,
+    "FlagCarrier_Flights": 10066,
+    "Name": "Lebanon"
+  },
+  {
+    "Year": 2020,
+    "Departures": 878,
+    "Domestic": 0,
+    "State": "LBR",
+    "International": 878,
+    "FlagCarrier_Flights": 0,
+    "Name": "Liberia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4782,
+    "Domestic": 270,
+    "State": "LBY",
+    "International": 4512,
+    "FlagCarrier_Flights": 9739,
+    "Name": "Libya"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3458,
+    "Domestic": 0,
+    "State": "LCA",
+    "International": 3458,
+    "FlagCarrier_Flights": 0,
+    "Name": "Saint Lucia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 11383,
+    "Domestic": 1399,
+    "State": "LKA",
+    "International": 9984,
+    "FlagCarrier_Flights": 10777,
+    "Name": "Sri Lanka"
+  },
+  {
+    "Year": 2020,
+    "Departures": 306,
+    "Domestic": 0,
+    "State": "LSO",
+    "International": 306,
+    "FlagCarrier_Flights": 0,
+    "Name": "Lesotho"
+  },
+  {
+    "Year": 2020,
+    "Departures": 11455,
+    "Domestic": 0,
+    "State": "LTU",
+    "International": 11455,
+    "FlagCarrier_Flights": 2242,
+    "Name": "Lithuania"
+  },
+  {
+    "Year": 2020,
+    "Departures": 18119,
+    "Domestic": 0,
+    "State": "LUX",
+    "International": 18119,
+    "FlagCarrier_Flights": 32780,
+    "Name": "Luxembourg"
+  },
+  {
+    "Year": 2020,
+    "Departures": 15160,
+    "Domestic": 169,
+    "State": "LVA",
+    "International": 14991,
+    "FlagCarrier_Flights": 23440,
+    "Name": "Latvia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9388,
+    "Domestic": 0,
+    "State": "MAC",
+    "International": 9388,
+    "FlagCarrier_Flights": 7885,
+    "Name": "China, Macao Special Administrative Region"
+  },
+  {
+    "Year": 2020,
+    "Departures": 43674,
+    "Domestic": 10078,
+    "State": "MAR",
+    "International": 33596,
+    "FlagCarrier_Flights": 45937,
+    "Name": "Morocco"
+  },
+  {
+    "Year": 2020,
+    "Departures": 16072,
+    "Domestic": 0,
+    "State": "MCO",
+    "International": 16072,
+    "FlagCarrier_Flights": 0,
+    "Name": "Monaco"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4296,
+    "Domestic": 0,
+    "State": "MDA",
+    "International": 4296,
+    "FlagCarrier_Flights": 2282,
+    "Name": "Republic of Moldova"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9204,
+    "Domestic": 7352,
+    "State": "MDG",
+    "International": 1852,
+    "FlagCarrier_Flights": 8029,
+    "Name": "Madagascar"
+  },
+  {
+    "Year": 2020,
+    "Departures": 11387,
+    "Domestic": 6337,
+    "State": "MDV",
+    "International": 5050,
+    "FlagCarrier_Flights": 7982,
+    "Name": "Maldives"
+  },
+  {
+    "Year": 2020,
+    "Departures": 419140,
+    "Domestic": 317972,
+    "State": "MEX",
+    "International": 101168,
+    "FlagCarrier_Flights": 375359,
+    "Name": "Mexico"
+  },
+  {
+    "Year": 2020,
+    "Departures": 348,
+    "Domestic": 96,
+    "State": "MHL",
+    "International": 252,
+    "FlagCarrier_Flights": 0,
+    "Name": "Marshall Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 5023,
+    "Domestic": 0,
+    "State": "MKD",
+    "International": 5023,
+    "FlagCarrier_Flights": 0,
+    "Name": "The Republic of North Macedonia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3306,
+    "Domestic": 160,
+    "State": "MLI",
+    "International": 3146,
+    "FlagCarrier_Flights": 0,
+    "Name": "Mali"
+  },
+  {
+    "Year": 2020,
+    "Departures": 10431,
+    "Domestic": 0,
+    "State": "MLT",
+    "International": 10431,
+    "FlagCarrier_Flights": 12927,
+    "Name": "Malta"
+  },
+  {
+    "Year": 2020,
+    "Departures": 56732,
+    "Domestic": 48093,
+    "State": "MMR",
+    "International": 8639,
+    "FlagCarrier_Flights": 48455,
+    "Name": "Myanmar"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4068,
+    "Domestic": 0,
+    "State": "MNE",
+    "International": 4068,
+    "FlagCarrier_Flights": 2856,
+    "Name": "Montenegro"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2615,
+    "Domestic": 1841,
+    "State": "MNG",
+    "International": 774,
+    "FlagCarrier_Flights": 3040,
+    "Name": "Mongolia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1918,
+    "Domestic": 0,
+    "State": "MNP",
+    "International": 1918,
+    "FlagCarrier_Flights": 0,
+    "Name": "Northern Mariana Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9619,
+    "Domestic": 7705,
+    "State": "MOZ",
+    "International": 1914,
+    "FlagCarrier_Flights": 6897,
+    "Name": "Mozambique"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2376,
+    "Domestic": 539,
+    "State": "MRT",
+    "International": 1837,
+    "FlagCarrier_Flights": 3808,
+    "Name": "Mauritania"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1064,
+    "Domestic": 0,
+    "State": "MSR",
+    "International": 1064,
+    "FlagCarrier_Flights": 2116,
+    "Name": "Montserrat"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1501,
+    "Domestic": 0,
+    "State": "MTQ",
+    "International": 1501,
+    "FlagCarrier_Flights": 0,
+    "Name": "Martinique"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4822,
+    "Domestic": 2078,
+    "State": "MUS",
+    "International": 2744,
+    "FlagCarrier_Flights": 4928,
+    "Name": "Mauritius"
+  },
+  {
+    "Year": 2020,
+    "Departures": 5182,
+    "Domestic": 2924,
+    "State": "MWI",
+    "International": 2258,
+    "FlagCarrier_Flights": 3353,
+    "Name": "Malawi"
+  },
+  {
+    "Year": 2020,
+    "Departures": 195532,
+    "Domestic": 143352,
+    "State": "MYS",
+    "International": 52180,
+    "FlagCarrier_Flights": 202210,
+    "Name": "Malaysia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2236,
+    "Domestic": 0,
+    "State": "MYT",
+    "International": 2236,
+    "FlagCarrier_Flights": 2651,
+    "Name": "Mayotte"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6432,
+    "Domestic": 3807,
+    "State": "NAM",
+    "International": 2625,
+    "FlagCarrier_Flights": 6293,
+    "Name": "Namibia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9565,
+    "Domestic": 8799,
+    "State": "NCL",
+    "International": 766,
+    "FlagCarrier_Flights": 11453,
+    "Name": "New Caledonia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2111,
+    "Domestic": 160,
+    "State": "NER",
+    "International": 1951,
+    "FlagCarrier_Flights": 160,
+    "Name": "Niger"
+  },
+  {
+    "Year": 2020,
+    "Departures": 218,
+    "Domestic": 0,
+    "State": "NFK",
+    "International": 218,
+    "FlagCarrier_Flights": 0,
+    "Name": "Norfolk Island"
+  },
+  {
+    "Year": 2020,
+    "Departures": 50153,
+    "Domestic": 41225,
+    "State": "NGA",
+    "International": 8928,
+    "FlagCarrier_Flights": 38035,
+    "Name": "Nigeria"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6300,
+    "Domestic": 3404,
+    "State": "NIC",
+    "International": 2896,
+    "FlagCarrier_Flights": 3498,
+    "Name": "Nicaragua"
+  },
+  {
+    "Year": 2020,
+    "Departures": 45,
+    "Domestic": 0,
+    "State": "NIU",
+    "International": 45,
+    "FlagCarrier_Flights": 0,
+    "Name": "Niue"
+  },
+  {
+    "Year": 2020,
+    "Departures": 129591,
+    "Domestic": 197,
+    "State": "NLD",
+    "International": 129394,
+    "FlagCarrier_Flights": 170672,
+    "Name": "Netherlands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 205852,
+    "Domestic": 170566,
+    "State": "NOR",
+    "International": 35286,
+    "FlagCarrier_Flights": 146484,
+    "Name": "Norway"
+  },
+  {
+    "Year": 2020,
+    "Departures": 62374,
+    "Domestic": 55974,
+    "State": "NPL",
+    "International": 6400,
+    "FlagCarrier_Flights": 61342,
+    "Name": "Nepal"
+  },
+  {
+    "Year": 2020,
+    "Departures": 112,
+    "Domestic": 0,
+    "State": "NRU",
+    "International": 112,
+    "FlagCarrier_Flights": 335,
+    "Name": "Nauru"
+  },
+  {
+    "Year": 2020,
+    "Departures": 150882,
+    "Domestic": 137892,
+    "State": "NZL",
+    "International": 12990,
+    "FlagCarrier_Flights": 123593,
+    "Name": "New Zealand"
+  },
+  {
+    "Year": 2020,
+    "Departures": 36908,
+    "Domestic": 6235,
+    "State": "OMN",
+    "International": 30673,
+    "FlagCarrier_Flights": 50512,
+    "Name": "Oman"
+  },
+  {
+    "Year": 2020,
+    "Departures": 44603,
+    "Domestic": 19727,
+    "State": "PAK",
+    "International": 24876,
+    "FlagCarrier_Flights": 30962,
+    "Name": "Pakistan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 32768,
+    "Domestic": 7619,
+    "State": "PAN",
+    "International": 25149,
+    "FlagCarrier_Flights": 51468,
+    "Name": "Panama"
+  },
+  {
+    "Year": 2020,
+    "Departures": 56833,
+    "Domestic": 44344,
+    "State": "PER",
+    "International": 12489,
+    "FlagCarrier_Flights": 12133,
+    "Name": "Peru"
+  },
+  {
+    "Year": 2020,
+    "Departures": 120709,
+    "Domestic": 90502,
+    "State": "PHL",
+    "International": 30207,
+    "FlagCarrier_Flights": 113435,
+    "Name": "Philippines"
+  },
+  {
+    "Year": 2020,
+    "Departures": 281,
+    "Domestic": 0,
+    "State": "PLW",
+    "International": 281,
+    "FlagCarrier_Flights": 0,
+    "Name": "Palau"
+  },
+  {
+    "Year": 2020,
+    "Departures": 40362,
+    "Domestic": 39008,
+    "State": "PNG",
+    "International": 1354,
+    "FlagCarrier_Flights": 40897,
+    "Name": "Papua New Guinea"
+  },
+  {
+    "Year": 2020,
+    "Departures": 89364,
+    "Domestic": 15829,
+    "State": "POL",
+    "International": 73535,
+    "FlagCarrier_Flights": 76845,
+    "Name": "Poland"
+  },
+  {
+    "Year": 2020,
+    "Departures": 64962,
+    "Domestic": 18222,
+    "State": "PRI",
+    "International": 46740,
+    "FlagCarrier_Flights": 9095,
+    "Name": "Puerto Rico"
+  },
+  {
+    "Year": 2020,
+    "Departures": 423,
+    "Domestic": 0,
+    "State": "PRK",
+    "International": 423,
+    "FlagCarrier_Flights": 832,
+    "Name": "Democratic People's Republic of Korea"
+  },
+  {
+    "Year": 2020,
+    "Departures": 99286,
+    "Domestic": 29851,
+    "State": "PRT",
+    "International": 69435,
+    "FlagCarrier_Flights": 66298,
+    "Name": "Portugal"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3151,
+    "Domestic": 340,
+    "State": "PRY",
+    "International": 2811,
+    "FlagCarrier_Flights": 1073,
+    "Name": "Paraguay"
+  },
+  {
+    "Year": 2020,
+    "Departures": 15362,
+    "Domestic": 14481,
+    "State": "PYF",
+    "International": 881,
+    "FlagCarrier_Flights": 15926,
+    "Name": "French Polynesia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 71151,
+    "Domestic": 0,
+    "State": "QAT",
+    "International": 71151,
+    "FlagCarrier_Flights": 135208,
+    "Name": "Qatar"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3065,
+    "Domestic": 0,
+    "State": "REU",
+    "International": 3065,
+    "FlagCarrier_Flights": 3293,
+    "Name": "Reunion"
+  },
+  {
+    "Year": 2020,
+    "Departures": 46883,
+    "Domestic": 8721,
+    "State": "ROU",
+    "International": 38162,
+    "FlagCarrier_Flights": 31274,
+    "Name": "Romania"
+  },
+  {
+    "Year": 2020,
+    "Departures": 583530,
+    "Domestic": 493799,
+    "State": "RUS",
+    "International": 89731,
+    "FlagCarrier_Flights": 609078,
+    "Name": "Russian Federation"
+  },
+  {
+    "Year": 2020,
+    "Departures": 5212,
+    "Domestic": 314,
+    "State": "RWA",
+    "International": 4898,
+    "FlagCarrier_Flights": 8492,
+    "Name": "Rwanda"
+  },
+  {
+    "Year": 2020,
+    "Departures": 190133,
+    "Domestic": 130175,
+    "State": "SAU",
+    "International": 59958,
+    "FlagCarrier_Flights": 169590,
+    "Name": "Saudi Arabia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 13724,
+    "Domestic": 4966,
+    "State": "SDN",
+    "International": 8758,
+    "FlagCarrier_Flights": 15539,
+    "Name": "Sudan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 10047,
+    "Domestic": 2534,
+    "State": "SEN",
+    "International": 7513,
+    "FlagCarrier_Flights": 11272,
+    "Name": "Senegal"
+  },
+  {
+    "Year": 2020,
+    "Departures": 55125,
+    "Domestic": 0,
+    "State": "SGP",
+    "International": 55125,
+    "FlagCarrier_Flights": 63201,
+    "Name": "Singapore"
+  },
+  {
+    "Year": 2020,
+    "Departures": 561,
+    "Domestic": 0,
+    "State": "SHN",
+    "International": 561,
+    "FlagCarrier_Flights": 0,
+    "Name": "Saint Helena"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6465,
+    "Domestic": 5979,
+    "State": "SLB",
+    "International": 486,
+    "FlagCarrier_Flights": 7009,
+    "Name": "Solomon Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1002,
+    "Domestic": 0,
+    "State": "SLE",
+    "International": 1002,
+    "FlagCarrier_Flights": 0,
+    "Name": "Sierra Leone"
+  },
+  {
+    "Year": 2020,
+    "Departures": 8182,
+    "Domestic": 0,
+    "State": "SLV",
+    "International": 8182,
+    "FlagCarrier_Flights": 1209,
+    "Name": "El Salvador"
+  },
+  {
+    "Year": 2020,
+    "Departures": 4551,
+    "Domestic": 1264,
+    "State": "SOM",
+    "International": 3287,
+    "FlagCarrier_Flights": 0,
+    "Name": "Somalia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 442,
+    "Domestic": 0,
+    "State": "SPM",
+    "International": 442,
+    "FlagCarrier_Flights": 882,
+    "Name": "Saint Pierre and Miquelon"
+  },
+  {
+    "Year": 2020,
+    "Departures": 17331,
+    "Domestic": 1,
+    "State": "SRB",
+    "International": 17330,
+    "FlagCarrier_Flights": 15359,
+    "Name": "Serbia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2608,
+    "Domestic": 392,
+    "State": "SSD",
+    "International": 2216,
+    "FlagCarrier_Flights": 0,
+    "Name": "South Sudan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1116,
+    "Domestic": 660,
+    "State": "STP",
+    "International": 456,
+    "FlagCarrier_Flights": 795,
+    "Name": "Sao Tome and Principe"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1375,
+    "Domestic": 0,
+    "State": "SUR",
+    "International": 1375,
+    "FlagCarrier_Flights": 2933,
+    "Name": "Suriname"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3110,
+    "Domestic": 0,
+    "State": "SVK",
+    "International": 3110,
+    "FlagCarrier_Flights": 0,
+    "Name": "Slovakia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1943,
+    "Domestic": 0,
+    "State": "SVN",
+    "International": 1943,
+    "FlagCarrier_Flights": 0,
+    "Name": "Slovenia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 84862,
+    "Domestic": 43311,
+    "State": "SWE",
+    "International": 41551,
+    "FlagCarrier_Flights": 137868,
+    "Name": "Sweden"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9762,
+    "Domestic": 8518,
+    "State": "SYC",
+    "International": 1244,
+    "FlagCarrier_Flights": 9033,
+    "Name": "Seychelles"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1602,
+    "Domestic": 2,
+    "State": "SYR",
+    "International": 1600,
+    "FlagCarrier_Flights": 2546,
+    "Name": "Syrian Arab Republic"
+  },
+  {
+    "Year": 2020,
+    "Departures": 13009,
+    "Domestic": 8773,
+    "State": "TCA",
+    "International": 4236,
+    "FlagCarrier_Flights": 24718,
+    "Name": "Turks and Caicos Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1751,
+    "Domestic": 650,
+    "State": "TCD",
+    "International": 1101,
+    "FlagCarrier_Flights": 2492,
+    "Name": "Chad"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3404,
+    "Domestic": 0,
+    "State": "TGO",
+    "International": 3404,
+    "FlagCarrier_Flights": 9555,
+    "Name": "Togo"
+  },
+  {
+    "Year": 2020,
+    "Departures": 254960,
+    "Domestic": 185526,
+    "State": "THA",
+    "International": 69434,
+    "FlagCarrier_Flights": 234761,
+    "Name": "Thailand"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3737,
+    "Domestic": 162,
+    "State": "TJK",
+    "International": 3575,
+    "FlagCarrier_Flights": 3738,
+    "Name": "Tajikistan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9057,
+    "Domestic": 8253,
+    "State": "TKM",
+    "International": 804,
+    "FlagCarrier_Flights": 9197,
+    "Name": "Turkmenistan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 835,
+    "Domestic": 0,
+    "State": "TLS",
+    "International": 835,
+    "FlagCarrier_Flights": 0,
+    "Name": "Timor-Leste"
+  },
+  {
+    "Year": 2020,
+    "Departures": 2801,
+    "Domestic": 2538,
+    "State": "TON",
+    "International": 263,
+    "FlagCarrier_Flights": 0,
+    "Name": "Tonga"
+  },
+  {
+    "Year": 2020,
+    "Departures": 14526,
+    "Domestic": 8600,
+    "State": "TTO",
+    "International": 5926,
+    "FlagCarrier_Flights": 16321,
+    "Name": "Trinidad and Tobago"
+  },
+  {
+    "Year": 2020,
+    "Departures": 18965,
+    "Domestic": 2939,
+    "State": "TUN",
+    "International": 16026,
+    "FlagCarrier_Flights": 19191,
+    "Name": "Tunisia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 186424,
+    "Domestic": 125071,
+    "State": "TUR",
+    "International": 61353,
+    "FlagCarrier_Flights": 224016,
+    "Name": "Turkey"
+  },
+  {
+    "Year": 2020,
+    "Departures": 65,
+    "Domestic": 0,
+    "State": "TUV",
+    "International": 65,
+    "FlagCarrier_Flights": 0,
+    "Name": "Tuvalu"
+  },
+  {
+    "Year": 2020,
+    "Departures": 130264,
+    "Domestic": 72862,
+    "State": "TWN",
+    "International": 57402,
+    "FlagCarrier_Flights": 147826,
+    "Name": "Taiwan Island"
+  },
+  {
+    "Year": 2020,
+    "Departures": 91516,
+    "Domestic": 82066,
+    "State": "TZA",
+    "International": 9450,
+    "FlagCarrier_Flights": 88190,
+    "Name": "United Republic of Tanzania"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9859,
+    "Domestic": 2925,
+    "State": "UGA",
+    "International": 6934,
+    "FlagCarrier_Flights": 7736,
+    "Name": "Uganda"
+  },
+  {
+    "Year": 2020,
+    "Departures": 54854,
+    "Domestic": 9358,
+    "State": "UKR",
+    "International": 45496,
+    "FlagCarrier_Flights": 37009,
+    "Name": "Ukraine"
+  },
+  {
+    "Year": 2020,
+    "Departures": 3519,
+    "Domestic": 2,
+    "State": "URY",
+    "International": 3517,
+    "FlagCarrier_Flights": 1680,
+    "Name": "Uruguay"
+  },
+  {
+    "Year": 2020,
+    "Departures": 5870964,
+    "Domestic": 5496536,
+    "State": "USA",
+    "International": 374428,
+    "FlagCarrier_Flights": 5914352,
+    "Name": "United States of America"
+  },
+  {
+    "Year": 2020,
+    "Departures": 6089,
+    "Domestic": 1896,
+    "State": "UZB",
+    "International": 4193,
+    "FlagCarrier_Flights": 6315,
+    "Name": "Uzbekistan"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1999,
+    "Domestic": 0,
+    "State": "VCT",
+    "International": 1999,
+    "FlagCarrier_Flights": 0,
+    "Name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "Year": 2020,
+    "Departures": 20175,
+    "Domestic": 14897,
+    "State": "VEN",
+    "International": 5278,
+    "FlagCarrier_Flights": 37747,
+    "Name": "Venezuela (Bolivarian Republic of)"
+  },
+  {
+    "Year": 2020,
+    "Departures": 14826,
+    "Domestic": 1511,
+    "State": "VGB",
+    "International": 13315,
+    "FlagCarrier_Flights": 2267,
+    "Name": "British Virgin Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 33762,
+    "Domestic": 13843,
+    "State": "VIR",
+    "International": 19919,
+    "FlagCarrier_Flights": 14016,
+    "Name": "United States Virgin Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 256244,
+    "Domestic": 213907,
+    "State": "VNM",
+    "International": 42337,
+    "FlagCarrier_Flights": 202865,
+    "Name": "Viet Nam"
+  },
+  {
+    "Year": 2020,
+    "Departures": 9705,
+    "Domestic": 9157,
+    "State": "VUT",
+    "International": 548,
+    "FlagCarrier_Flights": 9729,
+    "Name": "Vanuatu"
+  },
+  {
+    "Year": 2020,
+    "Departures": 1479,
+    "Domestic": 1384,
+    "State": "WLF",
+    "International": 95,
+    "FlagCarrier_Flights": 0,
+    "Name": "Wallis and Futuna Islands"
+  },
+  {
+    "Year": 2020,
+    "Departures": 807,
+    "Domestic": 0,
+    "State": "WSM",
+    "International": 807,
+    "FlagCarrier_Flights": 1132,
+    "Name": "Samoa"
+  },
+  {
+    "Year": 2020,
+    "Departures": 463,
+    "Domestic": 8,
+    "State": "YEM",
+    "International": 455,
+    "FlagCarrier_Flights": 560,
+    "Name": "Yemen"
+  },
+  {
+    "Year": 2020,
+    "Departures": 96704,
+    "Domestic": 76147,
+    "State": "ZAF",
+    "International": 20557,
+    "FlagCarrier_Flights": 102696,
+    "Name": "South Africa"
+  },
+  {
+    "Year": 2020,
+    "Departures": 10390,
+    "Domestic": 6394,
+    "State": "ZMB",
+    "International": 3996,
+    "FlagCarrier_Flights": 6648,
+    "Name": "Zambia"
+  },
+  {
+    "Year": 2020,
+    "Departures": 7577,
+    "Domestic": 2896,
+    "State": "ZWE",
+    "International": 4681,
+    "FlagCarrier_Flights": 3866,
+    "Name": "Zimbabwe"
+  }
+]
