@@ -1,0 +1,223 @@
+﻿Departures,Domestic,International,FlagCarrier_Flights,Name,Area,Development_Level,Traffic
+7422,0,7422,1925,Aruba,Americas,Medium,0
+11822,8395,3427,11496,Afghanistan,Asia,Low,1
+4978,2907,2071,5891,Angola,Africa,Low,0
+3742,8,3734,2249,Anguilla,Americas,Low,0
+6535,0,6535,4085,Albania,Europe,Medium,0
+30478,13010,17468,10070,Netherland Antilles,Americas,Medium,1
+137917,1,137916,199858,United Arab Emirates,Asia,Medium,1
+56050,42192,13858,41913,Argentina,Americas,Medium,1
+6841,0,6841,4203,Armenia,Low,Small,0
+62,0,62,0,American Samoa,Pacific,High,0
+6211,0,6211,13008,Antigua and Barbuda,Medium,Small,0
+320121,285602,34519,309655,Australia,Pacific,High,1
+61290,3458,57832,63472,Austria,Europe,High,1
+9675,119,9556,12553,Azerbaijan,Asia,Low,0
+963,0,963,0,Burundi,Africa,Low,0
+56277,0,56277,36611,Belgium,Europe,High,1
+2523,0,2523,17876,Benin,Africa,Low,0
+3204,556,2648,3519,Burkina Faso,Africa,Low,0
+61600,45752,15848,60725,Bangladesh,Asia,Medium,1
+19880,1949,17931,8088,Bulgaria,Europe,Medium,1
+16925,0,16925,23536,Bahrain,Africa,Low,1
+41927,30770,11157,34856,Bahamas,Americas,High,1
+3515,19,3496,3634,Bosnia and Herzegovina,Europe,Low,0
+10409,0,10409,17644,Belarus,Europe,Medium,1
+144941,142363,2578,144294,Belize,Americas,High,1
+1386,0,1386,0,Bermuda,Americas,Medium,0
+48682,45130,3552,50505,Bolivia (Plurinational State of),Americas,Medium,1
+430912,405525,25387,302157,Brazil,Americas,High,1
+7729,0,7729,0,Barbados,Americas,Medium,0
+2655,0,2655,4467,Brunei Darussalam,Asia,Low,0
+1150,0,1150,3086,Bhutan,Asia,Low,0
+3359,1031,2328,2745,Botswana,Africa,Low,0
+545,0,545,0,Central African Republic,Africa,Low,0
+482663,389070,93593,499365,Canada,Americas,High,1
+110,0,110,0,Cocos (Keeling) Islands,Pacific,Low,0
+84438,2265,82173,62085,Switzerland,Europe,High,1
+63966,52335,11631,251066,Chile,Americas,High,1
+3821569,3668383,153186,3843646,China,High,1
+6050,390,5660,2582,Cote d'Ivoire,Africa,Low,0
+4184,1137,3047,168,Cameroon,Africa,Low,0
+4860,2314,2546,60394,Democratic Republic of the Congo,Africa,Low,0
+3170,1635,1535,1592,Congo,Africa,Low,0
+1874,1626,248,1626,Cook Islands,Pacific,Low,0
+147946,122802,25144,144195,Colombia,Americas,High,1
+2795,1376,1419,2305,Comoros,Africa,Low,0
+6181,3455,2726,5444,Cabo Verde,Africa,Low,0
+42606,31895,10711,29756,Costa Rica,Americas,Medium,1
+14488,3262,11226,3353,Cuba,Americas,Low,1
+9950,6773,3177,10630,Cayman Islands,Americas,Low,0
+16535,0,16535,1116,Cyprus,Europe,Low,1
+20593,101,20492,10188,Czech Republic,Europe,High,1
+364400,88111,276289,318061,Germany,Europe,High,1
+1697,0,1697,941,Djibouti,Africa,Low,0
+3684,0,3684,0,Dominica,Americas,Low,0
+62413,15300,47113,77871,Denmark,Europe,High,1
+27851,112,27739,3046,Dominican Republic,Americas,Medium,1
+25319,15908,9411,27219,Algeria,Africa,Low,1
+21845,13024,8821,14164,Ecuador,Americas,Medium,1
+58123,11883,46240,81633,Egypt,Africa,Medium,1
+781,0,781,549,Eritrea,Africa,Low,0
+822,0,822,0,Western Sahara,Africa,Low,0
+406607,201904,204703,296524,Spain,Europe,High,1
+6675,40,6635,0,Estonia,Europe,Medium,0
+46312,23123,23189,77518,Ethiopia,Africa,Low,1
+44567,18651,25916,51061,Finland,Europe,High,1
+15088,7546,7542,10357,Fiji,Pacific,Low,1
+30,0,30,0,Falkland Islands (Malvinas),Americas,Low,0
+328000,138554,189446,238567,France,Europe,High,1
+1101,0,1101,1888,Faeroe Islands,Europe,Low,0
+672,371,301,0,Micronesia (Federated States of),Pacific,Low,0
+5639,3258,2381,0,Gabon,Africa,Low,0
+404068,104104,299964,481230,United Kingdom of Great Britain and Northern Ireland,Europe,High,1
+7675,8,7667,3354,Georgia,Europe,Low,0
+16081,10554,5527,13393,Ghana,Africa,Low,1
+801,0,801,0,Gibraltar,Europe,Low,0
+1631,0,1631,272,Guinea,Africa,Low,0
+7222,0,7222,0,Guadeloupe,Americas,Low,0
+1305,0,1305,0,Gambia,Africa,Low,0
+602,0,602,0,Guinea-Bissau,Africa,Low,0
+3257,2218,1039,3894,Equatorial Guinea,Africa,Low,0
+115881,59606,56275,82630,Greece,Europe,High,1
+2285,0,2285,0,Grenada,Americas,Low,0
+13933,13375,558,14135,Greenland,Europe,Low,1
+10452,3760,6692,5598,Guatemala,Americas,Low,1
+498,0,498,0,French Guiana,Americas,Low,0
+6559,12,6547,0,Guam,Pacific,Low,0
+1519,0,1519,0,Guyana,Americas,Low,0
+19545,14912,4633,15433,Honduras,Americas,Low,1
+18337,5926,12411,14553,Croatia,Europe,Low,1
+6077,1556,4521,3227,Haiti,Americas,Low,0
+24530,0,24530,163022,Hungary,Europe,Medium,1
+763215,727696,35519,755221,Indonesia,Asia,High,1
+776959,693545,83414,755136,India,Asia,High,1
+49878,2791,47087,409878,Ireland,Europe,High,1
+109246,95628,13618,113087,Iran (Islamic Republic of),Asia,High,1
+17806,4380,13426,12030,Iraq,Asia,Medium,1
+14044,5421,8623,16239,Iceland,Europe,Medium,1
+25310,3507,21803,14982,Israel,Asia,Medium,1
+293465,137617,155848,99672,Italy,Europe,High,1
+20175,7849,12326,523,Jamaica,Americas,Medium,1
+13802,847,12955,15954,Jordan,Asia,Medium,1
+822130,721481,100649,778415,Japan,Asia,High,1
+47360,38665,8695,46715,Kazakhstan,Asia,Low,1
+79233,47185,32048,93884,Kenya,Africa,Low,1
+4909,547,4362,41097,Kyrgyzstan,Asia,Low,0
+15569,2635,12934,10415,Cambodia,Africa,Low,1
+3895,3748,147,3796,Kiribati.Pacific,Low,0
+3422,68,3354,0,Saint Kitts and Nevis,Americas,Low,0
+281104,182953,98151,333368,Republic of Korea,Asia,High,1
+28207,0,28207,29539,Kuwait,Asia,Medium,1
+13016,9548,3468,21493,Lao People's Democratic Republic,Asia,Low,1
+11360,0,11360,10066,Lebanon,Asia,Medium,1
+878,0,878,0,Liberia,Asia,Low,0
+4782,270,4512,9739,Libya,Asia,Low,0
+3458,0,3458,0,Saint Lucia,Americas,Low,0
+11383,1399,9984,10777,Sri Lanka,Asia,Low,1
+306,0,306,0,Lesotho,Africa,Low,0
+11455,0,11455,2242,Lithuania,Europe,Medium,1
+18119,0,18119,32780,Luxembourg,Europe,High,1
+15160,169,14991,23440,Latvia,Europe,Medium,1
+43674,10078,33596,45937,Morocco,Africa,Medium,1
+16072,0,16072,0,Monaco,Europe,High,1
+4296,0,4296,2282,Republic of Moldova,Europe,Low,0
+9204,7352,1852,8029,Madagascar,Africa,Low,0
+11387,6337,5050,7982,Maldives,Asia,Low,1
+419140,317972,101168,375359,Mexico,Americas,Medium,1
+348,96,252,0,Marshall Islands,Pacific,Low,0
+5023,0,5023,0,The Republic of North Macedonia,Europe,Low,0
+3306,160,3146,0,Mali,Africa,Low,0
+10431,0,10431,12927,Malta,Europe,High,1
+56732,48093,8639,48455,Myanmar,Asia,Low,1
+4068,0,4068,2856,Montenegro,Europe,Medium,0
+2615,1841,774,3040,Mongolia,Asia,Low,0
+1918,0,1918,0,Northern Mariana Islands,Pacific,Low,0
+9619,7705,1914,6897,Mozambique,Africa,Low,0
+2376,539,1837,3808,Mauritania,Africa,Low,0
+1064,0,1064,2116,Montserrat,Americas,Low,0
+1501,0,1501,0,Martinique,Americas,Low,0
+4822,2078,2744,4928,Mauritius,Africa,Low,0
+5182,2924,2258,3353,Malawi,Africa,Low,0
+195532,143352,52180,202210,Malaysia,Asia,High,1
+2236,0,2236,2651,Mayotte,Africa,Low,0
+6432,3807,2625,6293,Namibia,Africa,Low,0
+9565,8799,766,11453,New Caledonia,Pacific,Low,0
+2111,160,1951,160,Niger,Africa,Low,0
+218,0,218,0,Norfolk Island,Pacific,Low,0
+50153,41225,8928,38035,Nigeria,Africa,Medium,1
+6300,3404,2896,3498,Nicaragua,Americas,Low,0
+45,0,45,0,Niue,Pacific,Low,0
+129591,197,129394,170672,Netherlands,Europe,High,1
+205852,170566,35286,146484,Norway,Europe,High,1
+62374,55974,6400,61342,Nepal,Asia,Low,1
+112,0,112,335,Nauru,Pacific,Low,0
+150882,137892,12990,123593,New Zealand,Pacific,High,1
+36908,6235,30673,50512,Oman,Asia,Medium,1
+44603,19727,24876,30962,Pakistan,Asia,Medium,1
+32768,7619,25149,51468,Panama,Americas,Medium,1
+56833,44344,12489,12133,Peru,Americas,Medium,1
+120709,90502,30207,113435,Philippines,Asia,Medium,1
+281,0,281,0,Palau,Low,Small,0
+40362,39008,1354,40897,Papua New Guinea,Pacific,Low,1
+89364,15829,73535,76845,Poland,Europe,High,1
+64962,18222,46740,9095,Puerto Rico,Americas,Medium,1
+423,0,423,832,Democratic People's Republic of Korea,Asia,Low,0
+99286,29851,69435,66298,Portugal,Europe,High,1
+3151,340,2811,1073,Paraguay,Americas,Low,0
+15362,14481,881,15926,French Polynesia,Pacific,Low,1
+71151,0,71151,135208,Qatar,Asia,Medium,1
+3065,0,3065,3293,Reunion,Africa,Low,0
+46883,8721,38162,31274,Romania,Europe,Medium,1
+583530,493799,89731,609078,Russian Federation,Asia,Medium,1
+5212,314,4898,8492,Rwanda,Africa,Low,0
+190133,130175,59958,169590,Saudi Arabia,Asia,Medium,1
+13724,4966,8758,15539,Sudan,Africa,Low,0
+10047,2534,7513,11272,Senegal,Africa,Low,0
+55125,0,55125,63201,Singapore,Asia,High,1
+561,0,561,0,Saint Helena,Americas,Medium,0
+6465,5979,486,7009,Solomon Islands,Pacific,Low,0
+1002,0,1002,0,Sierra Leone,Africa,Low,0
+8182,0,8182,1209,El Salvador,Americas,Low,0
+4551,1264,3287,0,Somalia,Africa,Low,0
+442,0,442,882,Saint Pierre and Miquelon,Americas,Low,0
+17331,1,17330,15359,Serbia,Europe,Medium,1
+2608,392,2216,0,South Sudan,Africa,Low,0
+1116,660,456,795,Sao Tome and Principe,Africa,Low,0
+1375,0,1375,2933,Suriname,Americas,Low,0
+3110,0,3110,0,Slovakia,Europe,High,0
+1943,0,1943,0,Slovenia,Europe,High,0
+84862,43311,41551,137868,Sweden,Europe,High,1
+9762,8518,1244,9033,Seychelles,Africa,Low,0
+1602,2,1600,2546,Syrian Arab Republic,Asia,Low,0
+13009,8773,4236,24718,Turks and Caicos Islands,Americas,Low,1
+1751,650,1101,2492,Chad,Africa,Low,0
+3404,0,3404,9555,Togo,Africa,Low,0
+254960,185526,69434,234761,Thailand,Asia,Medium,1
+3737,162,3575,3738,Tajikistan,Asia,Low,0
+9057,8253,804,9197,Turkmenistan,Asia,Low,0
+835,0,835,0,Timor-Leste,Asia,Low,0
+2801,2538,263,0,Tonga,Pacific,Low,0
+14526,8600,5926,16321,Trinidad and Tobago,Americas,Low,1
+18965,2939,16026,19191,Tunisia,Africa,Low,1
+186424,125071,61353,224016,Turkey,Asia,Medium,1
+65,0,65,0,Tuvalu,Pacific,Low,0
+130264,72862,57402,147826,Taiwan Island,Asia,High,1
+91516,82066,9450,88190,United Republic of Tanzania,Africa,Low,1
+9859,2925,6934,7736,Uganda,Africa,Low,0
+54854,9358,45496,37009,Ukraine,Europe,Medium,1
+3519,2,3517,1680,Uruguay,Americas,Medium,0
+5870964,5496536,374428,5914352,United States of America,Americas,High,1
+6089,1896,4193,6315,Uzbekistan,Asia,Low,0
+1999,0,1999,0,Saint Vincent and the Grenadines,Americas,Low,0
+20175,14897,5278,37747,Venezuela (Bolivarian Republic of),Americas,Medium,1
+14826,1511,13315,2267,British Virgin Islands,Americas,High,0
+33762,13843,19919,14016,United States Virgin Islands,Americas,Large,1
+256244,213907,42337,202865,Vietnam,Asia,Low,Moderate
+9705,9157,548,9729,Vanuatu,Pacific,Low,0
+1479,1384,95,0,Wallis and Futuna Islands,Pacific,Low,0
+807,0,807,1132,Samoa,Pacific,Low,0
+463,8,455,560,Yemen,Asia,Low,0
+96704,76147,20557,102696,South Africa,Africa,High,1
+10390,6394,3996,6648,Zambia,Africa,Low,0
+7577,2896,4681,3866,Zimbabwe,Africa,Low,0
